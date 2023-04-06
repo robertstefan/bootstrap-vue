@@ -131,7 +131,7 @@
     "improved-yarn-audit": "^3.0.0",
     "jest": "^26.6.3",
     "lint-staged": "^11.0.0",
-    "loader-utils": "^2.0.0",
+    "loader-utils": "^2.0.4",
     "lodash": "^4.17.21",
     "marked": "^2.0.3",
     "nuxt": "^2.15.8",
